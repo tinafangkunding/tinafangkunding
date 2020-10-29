@@ -6,5 +6,5 @@ A Product Manager @TencentCloud
 
 - ⚡  Love Serverless
 - 🌱 Learning Node.js - Next.js
-- 📫 Ping Me by [Email](mailto:tinafangkd@qq.com)
+- 📫 Ping me by [Email](mailto:tinafangkd@qq.com)
 
